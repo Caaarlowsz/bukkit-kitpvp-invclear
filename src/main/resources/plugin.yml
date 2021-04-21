@@ -1,5 +1,5 @@
-name: Kitpvp Invclear
-version: @version@
+name: Kitpvp-Invclear
+version: 1.0.0
 main: org.pixel.kitpvpinvclear.Main
 api-version: 1.16
 authors: [ PixelAgent007 ]
