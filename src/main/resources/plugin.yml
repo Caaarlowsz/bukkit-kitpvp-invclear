@@ -1,0 +1,6 @@
+name: Kitpvp Invclear
+version: @version@
+main: org.pixel.kitpvpinvclear.Main
+api-version: 1.16
+authors: [ PixelAgent007 ]
+description: Clears Inventory on Death for KitPVP. Requires Gamerule keepInventory set to true.
